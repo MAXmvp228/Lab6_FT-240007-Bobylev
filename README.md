@@ -28,12 +28,12 @@
 
 Тест 1
 
-<img width="770" height="176" alt="image" src="https://github.com/user-attachments/assets/f5ff7bd4-9f3a-484e-a749-f09348617f92" />
+<img width="761" height="221" alt="image" src="https://github.com/user-attachments/assets/305594ba-80b4-40b6-9ca1-75531a300db1" />
 
 Тест 2
 
-<img width="664" height="221" alt="image" src="https://github.com/user-attachments/assets/cb4fff23-66e9-433c-ae08-3a2290bfd91c" />
+<img width="771" height="173" alt="image" src="https://github.com/user-attachments/assets/7c8dbb94-e144-4d35-8547-43a8b7fa6f8c" />
 
 Тест 3
 
-<img width="448" height="169" alt="image" src="https://github.com/user-attachments/assets/546d1f03-9f51-4cd5-a790-ece4563ada27" />
+<img width="460" height="147" alt="image" src="https://github.com/user-attachments/assets/14bcc95e-4c33-4d74-9b5f-2e9c0e11bf45" />
